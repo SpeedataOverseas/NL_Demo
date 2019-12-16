@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="disable_drop_down_menu">Disable drop-down menu</string>
+    <string name="enable_drop_down_menu">Enable drop-down menu</string>
+    <string name="disable_navigation_bar">Disable navigation_bar</string>
+    <string name="enable_navigation_bar">Enable navigation_bar</string>
+</resources>
